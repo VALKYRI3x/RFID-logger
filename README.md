@@ -102,8 +102,8 @@ Buzzer → ESP8266
 
 ## 👨‍💻 Author
 **Wrijoya Sen** 
-- 🔗 LinkedIn: [linkedin.com/in/sagnikds](https://linkedin.com/in/wrijoyasen)  
-- 🛡 TryHackMe: [tryhackme.com/p/D3SYNCx](https://tryhackme.com/p/VALKYRI3)  
+- 🔗 LinkedIn: [linkedin.com/in/wrijoyasen](https://linkedin.com/in/wrijoyasen)  
+- 🛡 TryHackMe: [tryhackme.com/p/VALKYRI3](https://tryhackme.com/p/VALKYRI3)  
 
 ---
 
